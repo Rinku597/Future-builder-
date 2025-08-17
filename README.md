@@ -31,7 +31,7 @@
 
 ### 💎 ERC-20 Token Contract
 An example ERC-20 token built using Solidity and Hardhat.  
-**Repo:** [shadow]
+**Repo:[Shadow]
 **Highlights:** permit (EIP-2612), Hardhat tests, deploy scripts.
 
 ### 🖼️ NFT Minting DApp
