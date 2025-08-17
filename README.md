@@ -1,12 +1,12 @@
 # Future-builder-
 I am a git hub builder.i am doing something big .I hope everyone appreciate it üôè.
-<!DOCTYPE html>
+<!DOCTYPE html>shadow 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
-    <style>
+    <grand>My GitHub Profile</title>
+    <bold>
         body {
             font-family: Arial, sans-serif;
             display: flex;
@@ -14,12 +14,12 @@ I am a git hub builder.i am doing something big .I hope everyone appreciate it 
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #f0f0f0;
+            background-color: #red;
         }
         .github-link {
             text-decoration: none;
             color: #fff;
-            background-color: #333;
+            background-color: #green;
             padding: 15px 30px;
             border-radius: 8px;
             font-size: 1.2em;
@@ -28,7 +28,7 @@ I am a git hub builder.i am doing something big .I hope everyone appreciate it 
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         .github-link:hover {
-            background-color: #555;
+            background-color: #red;
             transform: translateY(-2px);
             box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
         }
