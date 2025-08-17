@@ -36,11 +36,5 @@ An example ERC-20 token built using Solidity and Hardhat.
 
 ### 🖼️ NFT Minting DApp
 A simple Web3 DApp that lets users mint NFTs to their wallets.  
-**Repo:**  
-**Demo:** https://your-demo-url.example  
-**Stack:** Solidity, Ethers.js, React/Next.js, Hardhat.
 
----
-
-## 📂 Repo Structure (example)
 
