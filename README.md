@@ -30,7 +30,7 @@
 
 ### 💎 ERC-20 Token Contract
 An example ERC-20 token built using Solidity and Hardhat.  
-**Repo:** [your-username/erc20-token](https://github.com/your-username/erc20-token)  
+**Repo:** [your-username/erc20-token](https://github.com/Rinku597/Future-builder-/blob/Erc20/README.md)  
 **Highlights:** permit (EIP-2612), Hardhat tests, deploy scripts.
 
 ### 🖼️ NFT Minting DApp
