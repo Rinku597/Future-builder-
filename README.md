@@ -28,9 +28,9 @@
 
 ## 🔗 Featured Projects
 
-### 💎 ERC-20 Token Contract
+### [**💎 ERC-20 Token Contract**](https://github.com/Rinku597/Future-builder-/blob/Erc20/README.md)
 An example ERC-20 token built using Solidity and Hardhat.  
-<mark>**[**ERC-20 Token Contract**](https://github.com/Rinku597/Future-builder-/blob/Erc20/README.md)**</mark>
+
 **Repo:** [your-username/erc20-token](https://github.com/Rinku597/Future-builder-/blob/Erc20/README.md)  
 **Highlights:** permit (EIP-2612), Hardhat tests, deploy scripts.
 
