@@ -1,8 +1,7 @@
-# Future-builde
 <!-- README.md -->
 
 <!-- Title / Intro -->
-# 👋 Rinku597
+# 👋 Hi, I'm Antar Munshi
 
 🚀 **ZenChain Builder Applicant** | **Web3 Learner & Blockchain Developer**  
 🧪 **Currently Exploring:** ERC-20/721 token standards, NFT minting, and DApp development
@@ -31,10 +30,16 @@
 
 ### 💎 ERC-20 Token Contract
 An example ERC-20 token built using Solidity and Hardhat.  
-**Repo:[https://github.com/Rinku597/Future-builder-/commits?author=Rinku597]
+**Repo:** [your-username/erc20-token](https://github.com/your-username/erc20-token)  
 **Highlights:** permit (EIP-2612), Hardhat tests, deploy scripts.
 
 ### 🖼️ NFT Minting DApp
 A simple Web3 DApp that lets users mint NFTs to their wallets.  
+**Repo:** [your-username/nft-mint-dapp](https://github.com/your-username/nft-mint-dapp)  
+**Demo:** https://your-demo-url.example  
+**Stack:** Solidity, Ethers.js, React/Next.js, Hardhat.
 
+---
+
+## 📂 Repo Structure (example)
 
