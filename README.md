@@ -5,7 +5,7 @@
 
 🚀 **ZenChain Builder Applicant** | **Web3 Learner & Blockchain Developer**  
 🧪 **Currently Exploring:** ERC-20/721 token standards, NFT minting, and DApp development
-
+**web3 block**
 ---
 
 ## 🛠️ Tech Stack
